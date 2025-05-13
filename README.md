@@ -1,5 +1,5 @@
-# NAME: MOHANRAJ.S
-# REG NO: 212224100036
+# NAME: BALA B
+# REG NO: 212224100005
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
